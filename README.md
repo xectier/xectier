@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔥 About Me<br>Hi, I'm Rupam Ray Mandal (GRPM) 👋<br>An IT student passionate about building impactful tech that solves real-world problems.<br>I enjoy blending development, creativity, and problem-solving to create tools that actually help students and people in daily life.<br>🚀 What I Do<br>💻 Build full-stack applications & smart systems<br>🧠 Explore AI-powered tools (chatbots, automation, productivity tools)<br>📚 Work on student-centric platforms to simplify college life<br>🛠️ Constantly learning and experimenting with new technologies<br>🧩 Current Focus<br>🔹 Developing CampusMind – a complete student life manager<br>🔹 Building AI-based tools (chatbot, voice, image generation)<br>🔹 Exploring internships & real-world industry exposure<br>🔹 Strengthening core concepts in DSA & system design<br>
 
-#💡 Projects<br>
+# 💡 Projects
 🧠 CampusMind<br>Student productivity platform with:<br>Assignment generator<br>Project ideation hub<br>Research paper finder<br>Study planner & reminders<br>🤖 Bodhi AI Chatbot<br>Image generation<br>Voice modulation<br>Chat history system<br>🔐 Visual Cryptography Tool<br>XOR-based secure image encryption<br>🏫 School Management System (Internship @ Simpsoft Solutions)<br>UI-based web platform
 
 
